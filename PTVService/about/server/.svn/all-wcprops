@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28473/AND/trunk/apps/PTVService/src/com/peertv/service/about/server
+END
+AboutInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/28473/AND/trunk/apps/PTVService/src/com/peertv/service/about/server/AboutInformation.java
+END
+IAboutInformation.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28400/AND/trunk/apps/PTVService/src/com/peertv/service/about/server/IAboutInformation.aidl
+END

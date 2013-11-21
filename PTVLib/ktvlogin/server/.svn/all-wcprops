@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/28436/AND/trunk/apps/libs/PTVLib/src/com/peertv/service/ktvlogin/server
+END
+IKTVLoginCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/28428/AND/trunk/apps/libs/PTVLib/src/com/peertv/service/ktvlogin/server/IKTVLoginCallback.aidl
+END
+IKTVLogin.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/28436/AND/trunk/apps/libs/PTVLib/src/com/peertv/service/ktvlogin/server/IKTVLogin.aidl
+END

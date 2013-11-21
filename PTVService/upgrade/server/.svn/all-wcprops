@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/28770/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server
+END
+Upgrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/28814/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/Upgrade.java
+END
+ConEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/28696/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/ConEventListener.java
+END
+UpgradeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/28751/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/UpgradeReceiver.java
+END
+IUpgradeCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/28751/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/IUpgradeCallback.aidl
+END
+ConEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28696/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/ConEvent.java
+END
+UpgradeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28751/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/UpgradeClient.java
+END
+RebootInstall.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/28768/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/RebootInstall.java
+END
+IUpgrade.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/28756/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/IUpgrade.aidl
+END
+XMLPrhase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28751/AND/trunk/apps/PTVService/src/com/peertv/service/upgrade/server/XMLPrhase.java
+END

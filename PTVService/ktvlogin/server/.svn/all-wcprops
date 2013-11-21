@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28601/AND/trunk/apps/PTVService/src/com/peertv/service/ktvlogin/server
+END
+UpdateStatusHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/28469/AND/trunk/apps/PTVService/src/com/peertv/service/ktvlogin/server/UpdateStatusHandler.java
+END
+IKTVLoginCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/28429/AND/trunk/apps/PTVService/src/com/peertv/service/ktvlogin/server/IKTVLoginCallback.aidl
+END
+KTVLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28601/AND/trunk/apps/PTVService/src/com/peertv/service/ktvlogin/server/KTVLogin.java
+END
+KTVLoginReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28593/AND/trunk/apps/PTVService/src/com/peertv/service/ktvlogin/server/KTVLoginReceiver.java
+END
+QueryContentObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/28442/AND/trunk/apps/PTVService/src/com/peertv/service/ktvlogin/server/QueryContentObserver.java
+END
+IKTVLogin.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/28438/AND/trunk/apps/PTVService/src/com/peertv/service/ktvlogin/server/IKTVLogin.aidl
+END

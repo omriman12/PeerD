@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28755/AND/trunk/apps/libs/PTVLib/src/com/peertv/service/upgrade/server
+END
+IUpgradeCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28755/AND/trunk/apps/libs/PTVLib/src/com/peertv/service/upgrade/server/IUpgradeCallback.aidl
+END
+IUpgrade.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/28755/AND/trunk/apps/libs/PTVLib/src/com/peertv/service/upgrade/server/IUpgrade.aidl
+END
